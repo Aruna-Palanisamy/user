@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#smain{
+    width: 100%;
+    background-image: url();
+    color: rgb(255, 7, 7);
+}
+#ssmain{
+    margin-top: 130px;
+    background-color: peachpuff;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;    
+}
